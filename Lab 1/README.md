@@ -3,6 +3,12 @@
 # Staging Interaction
 
 \*\***NAME OF COLLABORATORS HERE**\*\*
+Kazim Jafri (khj23)
+Re (rc884)
+Thomas (tfw29)
+Zixin (zl865)
+
+Link to our group's work: https://docs.google.com/document/d/1IF-8p7AqVKzw7TdsoV66ZMA1laeS3h9H1282nL8gCd0
 
 In the original stage production of Peter Pan, Tinker Bell was represented by a darting light created by a small handheld mirror off-stage, reflecting a little circle of light from a powerful lamp. Tinkerbell communicates her presence through this light to the other characters. See more info [here](https://en.wikipedia.org/wiki/Tinker_Bell). 
 
@@ -80,6 +86,7 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
 \*\***Summarize feedback you got here.**\*\*
+
 
 
 ## Part B. Act out the Interaction
