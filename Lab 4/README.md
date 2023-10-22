@@ -346,14 +346,22 @@ The following resources are good starts on how to stream video:
 
 ### Record
 
-Rough prototype:
+Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
+* "Looks like":
+  
+For this lab we made a whack a mole, but we changed the moles to flies. The device is made out of cardboard. It is a box with 4 pairs of LEDs attached on top of it. We put flies over the LEDs so the flies light up. There is also a swatter on the side for the users to hit the flies.
+  
+* "Works like": shows what the device can do
 
-Prototype video: https://youtu.be/bCWgo63QzWM
+Each game is timed, the user's aim is to hit as many flies as they can in the time limit. The red LEDs on the device lights up to show which flies the users should hit. The green LED lights up to indicate that the fly has been hit. A score of the user will be displayed at the end.
+  
+* "Acts like": shows how a person would interact with the device
+
+The user can hit the fly using the swatter at the side. He/she needs to hit the fly that lights up red.
+  
+Rough prototype video: https://youtu.be/bCWgo63QzWM
 
 Final Video: https://youtu.be/XiAZwO4ZLEY
 
-Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
-* "Looks like": shows how the device should look, feel, sit, weigh, etc.
-* "Works like": shows what the device can do
-* "Acts like": shows how a person would interact with the device
+
 
