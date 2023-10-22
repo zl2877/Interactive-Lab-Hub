@@ -243,9 +243,34 @@ Think about how you want to present the information about what your sensor is se
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
 
+Interactive whack a mole 
+
+- Two distance sensor
+- 1 button
+- 4 pair of Red & green button to represent mole 
+
+
+
+Claw machine 
+
+Ice cream game
+
+Snake
+
+One-person band
+
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
+How to implement proximity sensors and accurately quantize the joystick positions.
+
+How accurate distance sensors are when hand is above them
+
+Responsiveness of button
+
+
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
+
 
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
 
@@ -320,6 +345,12 @@ The following resources are good starts on how to stream video:
 ### Part G
 
 ### Record
+
+Rough prototype:
+
+Prototype video: https://youtu.be/bCWgo63QzWM
+
+Final Video: https://youtu.be/XiAZwO4ZLEY
 
 Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
