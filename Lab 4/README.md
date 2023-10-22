@@ -195,10 +195,34 @@ Usually, sensors need to be positioned in specific locations or orientations to 
 
 **\*\*\*Draw 5 sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
 
+Interactive whack a mole 
+
+- Two distance sensor
+- 1 button
+- 4 pair of Red & green button to represent mole 
+
+ <img width="500" src="./lab4img/1.jpeg">
+
+Claw machine 
+
+Ice cream game
+
+Snake
+
+One-person band
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
+
+How to implement proximity sensors and accurately quantize the joystick positions.
+
+How accurate distance sensors are when hand is above them
+
+Responsiveness of button
+
 
 **\*\*\*Pick one of these designs to prototype.\*\*\***
 
+Interactive whack a mole 
 
 ### Part D
 ### Physical considerations for displaying information and housing parts
@@ -243,30 +267,10 @@ Think about how you want to present the information about what your sensor is se
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
 
-Interactive whack a mole 
-
-- Two distance sensor
-- 1 button
-- 4 pair of Red & green button to represent mole 
-
- <img width="500" src="./lab4img/1.jpeg">
-
-Claw machine 
-
-Ice cream game
-
-Snake
-
-One-person band
 
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
-How to implement proximity sensors and accurately quantize the joystick positions.
-
-How accurate distance sensors are when hand is above them
-
-Responsiveness of button
 
 
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
