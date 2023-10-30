@@ -1,7 +1,11 @@
 # Observant Systems
 
 **NAMES OF COLLABORATORS HERE**
-
+Kazim Jafri (khj23)
+Rei Chen (rc884)
+Zixin Li (zl865)
+Rowan Wu (rww99)
+Arystan Tatishev (at855)
 
 
 For lab this week, we focus on creating interactive systems that can detect and respond to events or stimuli in the environment of the Pi, like the Boat Detector we mentioned in lecture. 
