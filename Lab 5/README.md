@@ -205,4 +205,7 @@ We want to create a system that classifies geese and cats. This is a good system
 
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
 
-**\*\*\*Include a short video demonstrating the finished result.\*\*\***
+Continuing from last week, we build a Cat or Goose detector. This can be placed at the cat sanctuary on the Island. When a cat approaches, the device plays a cat sound. When a goose approaches the device plays a cat sound. 
+
+Link to our video: https://youtu.be/16cqiLQ8eG8
+
