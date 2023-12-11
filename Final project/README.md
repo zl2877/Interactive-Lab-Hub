@@ -36,10 +36,8 @@ December 14 - Write-up and documentation due
 
 ## Expected Challenges:
 
-Constructing hardware of food dispenser with 3D printing
-
-Computer visioning of recognizing animals vs humans
-
+- Constructing hardware of food dispenser with 3D printing
+- Computer visioning of recognizing animals vs humans
 
 ## Parts needed
 - Cat and goose photos
