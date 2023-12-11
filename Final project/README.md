@@ -20,25 +20,35 @@ The goal of this final project is for you to have a fully functioning and well-d
 Our interactive device uses image recognition technology to identify cats and geese with a webcam, and dispenses treats for each animal depending on what the system recognizes. We plan to place the device at the Roosevelt Island cat sanctuary to live test it. 
 
 ## Timeline
+
 November 14 - Project plan
+
 November 16 - MakerLAB 3D printing training
+
 November 21 - Peer feedback on Project plans
+
 November 28 & 30 - Functional check-off
+
 December 5 & 7 - Final Project Presentations
+
 December 14 - Write-up and documentation due
 
+
 ## Expected Challenges:
+
 Constructing hardware of food dispenser with 3D printing
+
 Computer visioning of recognizing animals vs humans
 
+
 ## Parts needed
-Cat and goose photos
-Raspberry Pi
-LED light strip
-Webcam
-3D printed cat and goose food dispenser
-Water bottle as food container
-Qwiic Servo Controller and Micro Servo Motor SG5
+- Cat and goose photos
+- Raspberry Pi
+- LED light strip
+- Webcam
+- 3D printed cat and goose food dispenser
+- Water bottle as food container
+- Qwiic Servo Controller and Micro Servo Motor SG5
 
 ## Deliverables
 
