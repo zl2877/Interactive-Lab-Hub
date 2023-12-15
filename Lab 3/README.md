@@ -8,29 +8,6 @@ Zixin Li (zl865)\
 Rowan Wu (rww99)\
 Arystan Tatishev (at855)
 
-## Prep for Part 1: Get the Latest Content and Pick up Additional Parts 
-
-### Pick up Web Camera If You Don't Have One
-
-**Please note:** connect the webcam/speaker/microphone while the pi is *off*. 
-
-### Get the Latest Content
-
-**\[recommended\]**Option 1: On the Pi, `cd` to your `Interactive-Lab-Hub`, pull the updates from upstream (class lab-hub) and push the updates back to your own GitHub repo. You will need the *personal access token* for this.
-
-## Part 1.
-### Setup 
-
-### Text to Speech 
-
-\*\***Write your own shell file to use your favorite of these TTS engines to have your Pi greet you by name.**\*\*
-
-### Speech to Text
-
-\*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides.**\*\*
-
-### Serving Pages
-
 ### Storyboard
 
 \*\***Post your storyboard and diagram here.**\*\*
@@ -127,12 +104,6 @@ Feedback:
 The user’s response was similar to what we thought they would ask.
 However, when we explained what our device is like, we did ask the user to start with the phrase “mirror, mirror” when talking to the device. If we did not ask the user prior to the user testing, they would not know about this. 
 
-### Wizarding with the Pi (optional)
-In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
-
-\*\***Describe if the dialogue seemed different than what you imagined, or when acted out, when it was wizarded, and how.**\*\*
-
-Optional Wizarding was Skipped
 
 # Lab 3 Part 2
 
