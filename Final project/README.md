@@ -1,8 +1,15 @@
 # Final Project
 
-Using the tools and techniques you learned in this class, design, prototype and test an interactive device.
+**NAMES OF COLLABORATORS HERE**
 
-Project plan - November 14
+Kazim Jafri (khj23)\
+Rei Chen (rc884)\
+Zixin Li (zl865)\
+Rowan Wu (rww99)\
+Arystan Tatishev (at855)
+
+
+## Project plan
 
 Peer feedback on Project plans: November 21
 
