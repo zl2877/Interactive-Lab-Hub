@@ -7,7 +7,7 @@ Rei Chen (rc884)\
 Zixin Li (zl865)\
 Rowan Wu (rww99)\
 Arystan Tatishev (at855)\
-Qianxin Gan
+Qianxin Gan (qg72)
 
 
 ## Project plan
