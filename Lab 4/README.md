@@ -1,14 +1,14 @@
 # Ph-UI!!!
 
 **NAMES OF COLLABORATORS HERE**
-Kazim Jafri (khj23)
-Rei Chen (rc884)
-Zixin Li (zl865)
-Rowan Wu (rww99)
+
+Kazim Jafri (khj23)\
+Rei Chen (rc884)\
+Zixin Li (zl865)\
+Rowan Wu (rww99)\
 Arystan Tatishev (at855)
 
-
-**\*\*\*Sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
+## Sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.
 
 Interactive whack a mole 
 
