@@ -66,27 +66,36 @@ December 14 - Write-up and documentation due
 ## Fall-back plan
 Making changes to the feeder if the feeder is too complicated. We can make it simpler by making cardboard boxes that flip open. 
 
+## Documentation of design process
 
-2. Functioning project: The finished project should be a device, system, interface, etc. that people can interact with.
+1. 3D Printing of Components: Our project began with the design and 3D printing of various parts for our automated cat feeder. This included the main body, dispensing mechanism, and other structural elements.
+2. Assembly and Cleaning: Post-printing, we carefully cleaned and assembled these components, ensuring they fit together seamlessly and functioned properly.
+3. Integration of Motor: A crucial step was the integration of a motor into the feeder. This motor is responsible for rotating the dispenser, enabling the controlled release of cat food.
+4. Machine Learning Model Development: We developed a machine learning model capable of differentiating between humans, cats, and geese. This model is vital for the feeder's smart operation, allowing it to respond appropriately to different animals.
+5. Testing Phases:
+Phase 1 - Photographic Testing: We initially tested our device using photographs of cats and geese. This phase helped us to fine-tune the model's accuracy in differentiating between these animals.
+Phase 2 - Real-World Testing: The final testing phase involved real cats. This step was crucial in understanding the practical functionality and reliability of our feeder in a real-world scenario.
 
 
-3. Documentation of design process
 
-We 
+## Archive of all code, design patterns, etc. used in the final design. (As with labs, the standard should be that the documentation would allow you to recreate your project if you woke up with amnesia.) :
 
-5. Archive of all code, design patterns, etc. used in the final design. (As with labs, the standard should be that the documentation would allow you to recreate your project if you woke up with amnesia.)
+Code: https://github.com/zl2877/Interactive-Lab-Hub/tree/Fall2023/Final%20project/finalCode
 
 3D model of the dispenser: https://www.thingiverse.com/thing:3298177
 
-Code: 
    
-7. Video of someone using your project
+## Video of someone using your project:
+
+https://www.youtube.com/watch?v=19dnZaIqe7E
    
-8. Reflections on process (What have you learned or wish you knew at the start?)
+## Reflections on process (What have you learned or wish you knew at the start?)
 
-9. Group work distribution questionnaire
+Model Limitations: We discovered that our model's accuracy is contingent on the type of image used. It was trained primarily on full-body images of geese, resulting in limited capability to recognize images showing only the heads of geese. We would have trained the model on more images of cats and geese with only the top parts of their body if we knew this at the start or had more time. 
 
-## Change of Design
+Mechanical Challenges: The feeder's dispensing mechanism, particularly the rotator, was designed for average-sized cat food pellets. We observed that larger pieces of cat food tend to jam the mechanism. This issue suggests the need for a more adaptable design to accommodate varying sizes of cat food.
 
-It is fine to change your project goals, but please resubmit the project plan for the new design when you do that.
+Placement of Video Camera: The video camera needs to be positioned at an appropriate angle to recognize objects better. If we had more time, we would have built a stand to position the camera so it is at a better angle. 
+
+
 
