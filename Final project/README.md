@@ -6,7 +6,8 @@ Kazim Jafri (khj23)\
 Rei Chen (rc884)\
 Zixin Li (zl865)\
 Rowan Wu (rww99)\
-Arystan Tatishev (at855)
+Arystan Tatishev (at855)\
+Qianxin Gan
 
 
 ## Project plan
