@@ -1,10 +1,11 @@
 # Observant Systems
 
 **NAMES OF COLLABORATORS HERE**
-Kazim Jafri (khj23)
-Rei Chen (rc884)
-Zixin Li (zl865)
-Rowan Wu (rww99)
+
+Kazim Jafri (khj23)\
+Rei Chen (rc884)\
+Zixin Li (zl865)\
+Rowan Wu (rww99)\
 Arystan Tatishev (at855)
 
 
