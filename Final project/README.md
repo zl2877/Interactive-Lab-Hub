@@ -100,5 +100,5 @@ Mechanical Challenges: The feeder's dispensing mechanism, particularly the rotat
 
 Placement of Video Camera: The video camera needs to be positioned at an appropriate angle to recognize objects better. If we had more time, we would have built a stand to position the camera so it is at a better angle. 
 
-
+Live Testing at Sanctuary: We were not able to test our device at the Roosevelt Island Cat Sanctuary because they do not allow feeding of the wildlife. However, we were able to test the device on live cats through some willing cat owners. We have not tested the camera and dispenser on live geese due to concerns about disturbing the wildlife by getting to close or feeding them improperly.
 
