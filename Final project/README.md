@@ -33,7 +33,7 @@ For the final project we created a cat food dispenser. It is able to recogize ca
 
 ## Big Idea
 
-<img src="./img/img1.png" width="500">\
+<img src="./img/img1.png" width="800">\
 
 Our interactive device uses image recognition technology to identify cats and geese with a webcam, and dispenses treats for each animal depending on what the system recognizes. We plan to place the device at the Roosevelt Island cat sanctuary to live test it. 
 
